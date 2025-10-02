@@ -2,7 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weslley-hub&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-hub&layout=compact)
 
-# Wesllley Teixeira
+# Weslley Teixeira
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/weslley-fernando/)
 [![Email](https://img.shields.io/badge/Email-weslleyfernando71609@gmail.com-informational)](weslleyfernando71609@gmail.com)
